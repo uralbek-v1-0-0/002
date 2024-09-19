@@ -1,0 +1,21 @@
+html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+h3 {
+    color: red;
+}
+.yuqori {
+    top: 0;
+    padding-top: 8px;
+    padding-left: 18px;
+    padding-bottom: 4px;
+    background-color: #0095b6;
+}
+.logotip {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+.sahifa-cheti {
+    padding-left: 16px;
+    padding-right: 16px;
+}
