@@ -1,5 +1,8 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+a {
+    text-decoration: none;
+}
 h3 {
     color: red;
 }
